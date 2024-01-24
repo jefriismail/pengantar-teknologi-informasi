@@ -82,6 +82,3 @@ Private Cloud and Public Cloud are two distinct models of cloud computing that d
 Organizations often choose between private and public clouds based on factors like security, regulatory compliance, scalability requirements, and budget considerations. Additionally, there is a hybrid cloud model that combines aspects of both private and public clouds, offering greater flexibility and optimization for specific workloads.  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
