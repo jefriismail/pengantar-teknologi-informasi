@@ -16,7 +16,7 @@ Cloud computing has evolved significantly since its inception. The concept emerg
 
 
 ### Basic Concept  
-<img src="https://www.ncsc.gov.uk/static-assets/images/guidance/Cloud-responsibility-model-with-key.png" align="left" height="" width="450" />  
+<img src="https://www.ncsc.gov.uk/static-assets/images/guidance/Cloud-responsibility-model-with-key.png" align="left" style="width: 100%" />  
   
 
 
@@ -80,5 +80,28 @@ Private Cloud and Public Cloud are two distinct models of cloud computing that d
        - **Google Cloud Platform (GCP):** Provides various cloud services and products.
 
 Organizations often choose between private and public clouds based on factors like security, regulatory compliance, scalability requirements, and budget considerations. Additionally, there is a hybrid cloud model that combines aspects of both private and public clouds, offering greater flexibility and optimization for specific workloads.  
+  
+
+
+
+### Cloud Trend  
+<img src="Asset/cloud-provider.png" align="left" style="width: 100%" />  
+  
+
+align to the increase of advanced infrastructure needs, the cloud improves its quality and compatibility to communicate with other infrastructure services and build cloud-native services such as :
+1. Multi-Cloud Adoption, Many organizations are adopting a multi-cloud strategy, leveraging services from multiple cloud providers to avoid vendor lock-in, enhance redundancy, and optimize costs.
+Example: A company might use Amazon Web Services (AWS) for its scalability, Microsoft Azure for its integration with Windows-based applications, and Google Cloud Platform (GCP) for its data analytics services.
+2. Serverless Computing, where cloud providers manage the infrastructure automatically, is gaining popularity for its scalability and cost-effectiveness.
+Example: Companies are using serverless functions on platforms like AWS Lambda, Azure Functions, or Google Cloud Functions to execute code without provisioning or managing servers.
+3. Edge Computing, involves processing data closer to the source, reducing latency and improving performance. This is particularly relevant for applications requiring real-time processing.
+Example: Internet of Things (IoT) devices and applications in industries like manufacturing or healthcare benefit from edge computing. AWS IoT Greengrass, Azure IoT Edge, and Google Cloud IoT are examples of edge computing services.
+4. Hybrid Cloud Deployments, Hybrid cloud solutions combine on-premises infrastructure with cloud services, providing flexibility and allowing organizations to maintain certain workloads on-premises while leveraging the cloud for others.
+Example: VMware Cloud on AWS enables organizations to run VMware's software-defined data center on the AWS Cloud.
+5. Containerization and Orchestration, Container like Docker, and orchestration tools, such as Kubernetes, simplify application deployment and management, making it easier to scale and manage applications in the cloud.
+Example: Organizations use Kubernetes on cloud platforms like Google Kubernetes Engine (GKE), Amazon Elastic Kubernetes Service (EKS), or Azure Kubernetes Service (AKS) to orchestrate containerized applications.
+6. AI and Machine Learning Services, Cloud providers offer AI and machine learning services, enabling organizations to incorporate advanced analytics and intelligence into their applications without the need for deep expertise.
+Example: Companies leverage cloud AI services like AWS SageMaker, Azure Machine Learning, or Google Cloud AI Platform for developing and deploying machine learning models.
+7. Security and Compliance, Cloud providers continue to invest in security features and compliance certifications to address concerns related to data protection and regulatory requirements.
+Example: Organizations in regulated industries, such as finance or healthcare, choose cloud providers with strong security measures and compliance certifications, such as HIPAA or PCI DSS.  
 
 <br />
