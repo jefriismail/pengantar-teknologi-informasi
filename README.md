@@ -104,4 +104,9 @@ Example: Companies leverage cloud AI services like AWS SageMaker, Azure Machine 
 7. Security and Compliance, Cloud providers continue to invest in security features and compliance certifications to address concerns related to data protection and regulatory requirements.
 Example: Organizations in regulated industries, such as finance or healthcare, choose cloud providers with strong security measures and compliance certifications, such as HIPAA or PCI DSS.  
 
-<br />
+
+
+
+### References  
+- K. Jamsa, Cloud computing. Jones & Bartlett Learning, 2022.
+- D. C. Marinescu, Cloud computing: Theory and Practice. Morgan Kaufmann, 2022.  
