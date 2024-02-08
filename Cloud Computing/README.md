@@ -1,8 +1,6 @@
-
-
 ### Pengantar Teknologi Informasi (Cloud)  
 <div align="center">
-<img src="/Asset/Cloud.png" align="center" style="width: 100%" />
+<img src="Asset/Cloud.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -16,7 +14,7 @@ Cloud computing has evolved significantly since its inception. The concept emerg
 
 
 ### Basic Concept  
-<img src="https://www.ncsc.gov.uk/static-assets/images/guidance/Cloud-responsibility-model-with-key.png" align="left" style="width: 100%" />  
+<img src="Asset/Cloud-responsibility-model-with-key.png" align="left" style="width: 100%" />  
   
 
 
