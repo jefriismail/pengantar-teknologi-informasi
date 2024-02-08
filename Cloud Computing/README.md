@@ -2,7 +2,7 @@
 
 ### Pengantar Teknologi Informasi (Cloud)  
 <div align="center">
-<img src="https://github.com/jefriismail/pengantar-teknologi-informasi/blob/main/Asset/Cloud.png" align="center" style="width: 100%" />
+<img src="/Asset/Cloud.png" align="center" style="width: 100%" />
 </div>  
   
 
