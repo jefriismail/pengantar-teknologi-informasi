@@ -4,6 +4,8 @@
 <img src="Asset/itclab-diagram.jpeg" align="center" style="width: 100%" />
 </div>
 
+<!-- Empty line -->
+
 iTCLab is an enhanced version of the TCLab developed by Prof. John Hedengren from Brigham Young University, further improved by Mr. Basuki Rakhmat from UPN "Veteran" Jawa Timur. 
 
 ## Key Features
